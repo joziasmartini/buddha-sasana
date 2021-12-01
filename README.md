@@ -1,4 +1,4 @@
-# buddha-sasana-redesign
+# Buddha Sasana
 Redesign of the Buddha Sasana website.
 
 ### Explanation
