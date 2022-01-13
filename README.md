@@ -13,3 +13,8 @@ With this work involving many volunteers, the website can remain accessible to t
 
 ### New version
 <img src="new-version.png">
+
+### Monks
+For each monk, I created individual pages, like this:
+
+<img src="ajahn-chah.png">
