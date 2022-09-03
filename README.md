@@ -1,6 +1,6 @@
 <div align="center">
 <h1>www.buddhasasana.com.br</h1>
-<p>The biggest website about Buddhism in Portuguese.</p>
+<p>One of the biggest buddhism websites.</p>
 </div>
 
 ### Introduction
