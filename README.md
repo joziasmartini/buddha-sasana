@@ -1,6 +1,6 @@
 <div align="center">
 <h1>www.buddhasasana.com.br</h1>
-<p>One of the biggest buddhism websites.</p>
+<p>One of the biggest websites about Buddhism.</p>
 </div>
 
 ### Introduction
